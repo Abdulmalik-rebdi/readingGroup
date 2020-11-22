@@ -1,0 +1,3 @@
+- The inputFileExample.txt file is just an example input file. Feel free to use any different format.
+- The inputFileExample.txt file shows an example of only 1 member in the group, in your input file you have to have at least 10 members. Your program must also be written to be able to read/deal with any number of members.
+- The inputFileExample.txt shows an example of only 5 books for one member, in your input file you have to have at least 5 books for each member. Your program must also be written to be able to read/deal with any number of books.

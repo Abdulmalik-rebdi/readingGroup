@@ -1,3 +1,14 @@
-- The inputFileExample.txt file is just an example input file. Feel free to use any different format.
-- The inputFileExample.txt file shows an example of only 1 member in the group, in your input file you have to have at least 10 members. Your program must also be written to be able to read/deal with any number of members.
-- The inputFileExample.txt shows an example of only 5 books for one member, in your input file you have to have at least 5 books for each member. Your program must also be written to be able to read/deal with any number of books.
+welcome!!
+
+to run the code probably please do the following:
+1-the code is required to be run on Jupytr (ipynb)
+
+2- preferably to avoid any problems please use Visual Code
+
+3-make sure that you have/install the following libraries:
+ numpy - pandas - matplotlib - statsmodels - xlrd - xlsxwriter - collections 
+
+4- make sure you save the provided xlsx file in a recognisable path
+
+5- locate a variable called "path" and change its value to the path that you have xlsx file in (**in the path you have to put Double \\ instead if just one**)
+ 

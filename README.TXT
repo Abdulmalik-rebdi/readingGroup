@@ -1,4 +1,6 @@
+
 welcome!!
+i made this program that has some data for Reading group and from this data we tried to find some info such as ranking of most read category by the group , sum of all pages read by the group please enter  ,  members first names please enter   , ranking of members based on the pages they read please enter , number of books read by the group please enter  and  ranking of members based on the number of books they read please enter
 
 to run the code probably please do the following:
 1-the code is required to be run on Jupytr (ipynb)
